@@ -2,7 +2,7 @@
 
 ### 1️⃣ Clone the Repository
 
-git clone 
+git clone https://github.com/NGGithua1/DC_MOTOR_CONTROL_SYSTEM_DESIGN_WITH_INTEGRATED_SAFETY_FEATURE.git
 cd Code
 
 ### 2️⃣ Build
